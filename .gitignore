@@ -9,6 +9,7 @@ __pycache__/
 # Ignore the config.js file.
 config.js
 .DS_Store 
+major_eq_starter_logic.js
 
 # Distribution / packaging
 .Python
